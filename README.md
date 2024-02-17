@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm excited to share my journey in technology with
 - 🌱 I’m currently learning **advanced techniques in Cloud Computing and Distributed Systems as part of my Master's program at Santa Clara University**.
 - 👯 I’m looking to collaborate on **projects involving cloud engineering, Kubernetes, and automation using Terraform and Jenkins**.
 - 🤔 I’m looking for help with **finding jobs in DevOps, Cloud and SRE**.
-- 💬 Ask me about **Python,  cloud technologies (like AWS, Docker, Kubernetes), and my experiences transitioning from a DevOps Engineer in India to a Cloud Engineer Intern in the USA**.
+- 💬 Ask me about **Python, cloud technologies (like AWS, Docker, Kubernetes), and my experiences transitioning from a DevOps Engineer in India to a Cloud Engineer Intern in the USA**.
 - 📫 How to reach me: **[kmansukhani@scu.edu]** or connect with me on [www.linkedin.com/in/kdmansukhani].
 
 ## 🎓 Education
