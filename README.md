@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm excited to share my journey in technology with you. Here's a bit about what I'm up to:
 
 
-- 🔭 I’m currently working on **optimizing cloud-based architectures and implementing efficient DevOps workflows**.
+- 🔭 I’m currently working on **optimizing cloud-based architectures on AWS and implementing efficient DevOps workflows**.
 - 🌱 I’m currently learning **advanced techniques in Cloud Computing and Distributed Systems as part of my Master's program at Santa Clara University**.
 - 👯 I’m looking to collaborate on **projects involving cloud engineering, Kubernetes, and automation using Terraform and Jenkins**.
 - 🤔 I’m looking for help with **finding jobs in DevOps, Cloud and SRE**.
