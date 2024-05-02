@@ -15,22 +15,6 @@ Welcome to my GitHub profile! I'm excited to share my journey in technology with
   - *Santa Clara University, Sept 2022 - June 2024*
   - *Courses: Cloud Computing, Advanced Operating Systems, Design and Analysis of Algorithms, Distributed Systems.*
 
-## 💼 Experience
-
-### Cloud Engineer Intern at Cerebrone.ai
-- **Santa Clara, CA (July 2023 - Sept 2023)**
-- **Key Contributions**:
-  - Automated infrastructure with Jenkins and Terraform.
-  - Enhanced AWS infrastructure performance by 35%.
-  - Orchestrated Kubernetes setup ensuring 99.99% uptime.
-
-### DevOps Engineer at Atos Syntel
-- **India (Aug 2018 - Jan 2022)**
-- **Key Contributions**:
-  - Migrated applications to Kubernetes, enhancing disaster recovery.
-  - Created Terraform templates for AWS.
-  - Developed Python scripts improving efficiency by 40%.
-
 ## 🛠 Skills
 - **Languages**: Python, Java, Bash, SQL
 - **DevOps Tools**: Docker, Kubernetes, Jenkins, Terraform, Helm, Maven
